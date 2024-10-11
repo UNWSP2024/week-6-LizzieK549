@@ -1,0 +1,23 @@
+# Program #2: pseudocode for program 3
+
+
+Define the constants for the state tax and county tax based on percents given
+define main function
+Prompt user to enter total sales for the month
+
+
+call 2 functions: one to calculate state tax, second one to calculate county tax
+calculate total tax (sum state and county tax)
+display state tax amount
+display county tax amount
+display total tax amount
+
+define function to calculate state tax
+    1. multiply total sales by state tax rate
+    2. return the state tax amount
+
+define function to calculate county tax
+    1. multiply total sales by county tax rate
+    2. return the county tax amount
+
+Call the main funciton
